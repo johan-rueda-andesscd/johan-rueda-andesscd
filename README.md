@@ -1,13 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on AndesSCD <br>🌱 I’m currently learning React, VueJS and Python<br>💬 Ask me about PHP, Laravel, Angular Development and Deploying with Heroku
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jruedadev) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jrrg4543) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jruedag/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jruedadev) 
-
 # 💻 Tech Stack:
 
 ## 💻 FrontEnd:
@@ -62,17 +55,17 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jruedadev&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jruedadev&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jruedadev&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=johan-rueda-andesscd&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=johan-rueda-andesscd&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johan-rueda-andesscd&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jruedadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=johan-rueda-andesscd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jruedadev&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=johan-rueda-andesscd&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
